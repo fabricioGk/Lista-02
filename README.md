@@ -1,2 +1,2 @@
 # Lista-02
-Lista com testes de loop(for) e condicionalÉ  é necessário ver o codigo das questões que necesssitam dados por url
+É necessário abrir o cadigo das questões que necessitam de dados via url pelo metodo get
